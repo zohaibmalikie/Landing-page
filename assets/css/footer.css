@@ -11,9 +11,18 @@ a:hover{
     text-decoration: none;
     color: #fff;
 }
-footer{
-    
-}
+
 .quick-links>a{
 display: block;
+}
+.border-address{
+    width: 10%;
+    margin-top:11px; 
+    border-top: 2px solid gray;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.5em + .75rem + 2px);
+   
 }
