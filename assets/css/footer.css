@@ -2,9 +2,6 @@
     padding: 0;
     margin: 0;
     max-width: 100%;
-    overflow-x: hidden;
-    position: relative;
-    display: block;
 }
 a{
     text-decoration: none;
@@ -13,4 +10,10 @@ a{
 a:hover{
     text-decoration: none;
     color: #fff;
+}
+footer{
+    
+}
+.quick-links>a{
+display: block;
 }
