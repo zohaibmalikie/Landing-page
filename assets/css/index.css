@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.w-15{
+    width: 25px;
+}
+.bg-bc2026{
+    background-color: #BC2026;
+}
+.w-50-p{
+    width: 25px;
+}
+.bg-90191c{
+   background-color: #90191C;
+}
+.cl-bc2026{
+    color: #BC2026 !important;
+}
+.h-50-p{
+    height: 50px;
+}
+.main-padding{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.w-40{
+    width: 40%;
+}
+.border-bottom-bc2026{
+    border-bottom: 2px solid #BC2026;
+}
