@@ -37,8 +37,8 @@
 .border-bc2026 {
   border-bottom: 2px solid #bc2026;
 }
-#nav-1 .navbar-collapse .navbar-nav .nav-item a.active{
-  background-color: #bc2026;
+#tabs-bg li a.active div{
+  background-color: #bc2026 !important;
   color: #fff !important;
 
 }
