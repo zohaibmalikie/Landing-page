@@ -37,9 +37,16 @@
 .border-bc2026 {
   border-bottom: 2px solid #bc2026;
 }
+#tabs-bg li a div{
+  background-color: transparent !important;
+  color: #000 !important;
+}
 #tabs-bg li a.active div{
   background-color: #bc2026 !important;
   color: #fff !important;
+}
+#tabs-bg li a.active div div img{
+  filter: brightness(0) invert(1);
 
 }
 .h-4 {
