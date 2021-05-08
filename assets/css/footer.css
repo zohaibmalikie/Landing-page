@@ -20,6 +20,10 @@ display: block;
     margin-top:11px; 
     border-top: 2px solid gray;
 }
+.pos-z-index{
+    position: relative;
+    z-index: +1;
+}
 .form-control {
     display: block;
     width: 100%;
